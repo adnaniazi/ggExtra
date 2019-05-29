@@ -20,8 +20,6 @@ Imports:
     gtable (>= 0.2.0),
     miniUI (>= 0.1.1),
     scales (>= 0.2.0),
-    shiny (>= 0.13.0),
-    shinyjs (>= 0.5.2),
     utils,
     R6
 Suggests:
