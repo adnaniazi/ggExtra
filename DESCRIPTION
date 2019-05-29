@@ -28,12 +28,7 @@ Suggests:
     knitr (>= 1.7),
     rmarkdown,
     rstudioapi (>= 0.5),
-    testthat,
-    vdiffr,
-    fontquiver,
-    svglite,
-    withr,
-    devtools
+    testthat
 License: MIT + file LICENSE
 SystemRequirements: pandoc with https support
 LazyData: true
